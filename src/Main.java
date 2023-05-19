@@ -25,6 +25,14 @@ public class Main {
         System.out.println("Is heap empty? " + isEmpty);
     }
 }
+// test case
+case :1                                     case :1 
+    100 200 600 700
+    700 600 200 100
+    Maximum Element is 700
+    10 30 50 20 40
+   50 40 30 2010
+    Maximum Element is 50
 
 
 
